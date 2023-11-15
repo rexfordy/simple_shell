@@ -1,2 +1,3 @@
-This Project is done by Linus Atte (linuseatte@gmail.com)
-This is my Simple Shell Project.
+Simple Shell Project
+Done by Linus Atte (linuseatte@gmail.com)
+Tuesday November 14, 2023
